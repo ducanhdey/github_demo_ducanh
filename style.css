@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 24px;
+}
+
+button {
+  font-size: 24px;
+  padding: 10px 20px;
+  margin: 20px;
+  color :bisque;
+}
+
+#click-btn {
+  display: none;
+  color :rgb(149, 77, 185) ;
+}
+
+#timer {
+  font-size: 24px;
+}
+
+#count {
+  font-size: 24px;
+}
